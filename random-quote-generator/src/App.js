@@ -15,7 +15,7 @@ function App() {
         url: 'https://famous-quotes4.p.rapidapi.com/random',
         params: { category: 'all', count: '1' },
         headers: {
-          'X-RapidAPI-Key': '1288770628mshd8dae950a4f994bp14d8a1jsndb2a7c78c85e',
+          'X-RapidAPI-Key': process.env.REACT_APP_API_KEY,
           'X-RapidAPI-Host': 'famous-quotes4.p.rapidapi.com'
         }
       };
