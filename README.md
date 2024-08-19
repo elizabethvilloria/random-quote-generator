@@ -4,7 +4,7 @@ This project is a simple Random Quote Generator built using React. It fetches qu
 
 ## Live Demo
 
-[Live Demo Link](https://your-vercel-deployment-url.com)
+[Live Demo Link](https://random-quote-generator-nu-lovat.vercel.app/)
 
 ## Features
 
